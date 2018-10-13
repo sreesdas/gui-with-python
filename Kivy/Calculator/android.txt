@@ -1,3 +1,3 @@
 title= Simple Calculator
-author= sree
+author= SreenathSivadas
 orientation= portrait
